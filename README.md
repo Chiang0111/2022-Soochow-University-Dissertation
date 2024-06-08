@@ -1,61 +1,51 @@
 # 2022-Soochow-University-Dissertation
 
 This is a project of a dissertation competition from an bachelor degree of economics student from Soochow University.
+Topic: Predicting Ethereum returns by using time series
 ## Description
 
 This study employs autoregressive and cross-period regression models from time series analysis, using various cryptocurrency prices as variables to predict the future returns of Ethereum. We find that platform tokens are the most suitable variables for predicting Ethereum returns. Additionally, we discover that NFT-related digital currencies, which are traded on the Ethereum blockchain, can also predict Ethereum returns. Conversely, DeFi-related tokens and meme coins are the least suitable for predicting Ethereum returns.
 
-## Getting Started
+## Methodology
 
-### Dependencies
+1. **Data Collection**: 
+   - Historical price data for Ethereum and other cryptocurrencies are collected.
+   
+2. **Data Preprocessing**: 
+   - Cleaning and preparing the data for analysis.
+   
+3. **Model Building**: 
+   - Using autoregressive and cross-period regression models to predict Ethereum returns.
+   
+4. **Analysis**: 
+   - Evaluating the predictive power of different types of cryptocurrencies.
 
-* Describe any prerequisites, libraries, OS version, etc., needed before installing program.
-* ex. Windows 10
+## Key Findings
 
-### Installing
+- Platform tokens are the most suitable variables for predicting Ethereum returns.
+- NFT-related digital currencies traded on the Ethereum blockchain also have predictive power.
+- DeFi-related tokens and meme coins are the least suitable for predicting Ethereum returns.
 
-* How/where to download your program
-* Any modifications needed to be made to files/folders
+## Requirements
 
-### Executing program
+- Python 3.7+
+- Jupyter Notebook
+- pandas
+- numpy
+- statsmodels
+- matplotlib
 
-* How to run the program
-* Step-by-step bullets
-```
-code blocks for commands
-```
+## Usage
 
-## Help
+To run the analysis, open the `2022大學生論文.ipynb` notebook in Jupyter and follow the steps provided. Ensure you have the necessary data files in the `data/` directory.
 
-Any advise for common problems or issues.
-```
-command to run if program contains helper info
-```
+## Contributing
 
-## Authors
-
-Contributors names and contact info
-
-ex. Dominique Pizzie  
-ex. [@DomPizzie](https://twitter.com/dompizzie)
-
-## Version History
-
-* 0.2
-    * Various bug fixes and optimizations
-    * See [commit change]() or See [release history]()
-* 0.1
-    * Initial Release
+Contributions are welcome! Please feel free to submit a Pull Request.
 
 ## License
 
-This project is licensed under the [NAME HERE] License - see the LICENSE.md file for details
+This project is licensed under the MIT License.
 
-## Acknowledgments
-
-Inspiration, code snippets, etc.
-* [awesome-readme](https://github.com/matiassingers/awesome-readme)
-* [PurpleBooth](https://gist.github.com/PurpleBooth/109311bb0361f32d87a2)
-* [dbader](https://github.com/dbader/readme-template)
-* [zenorocha](https://gist.github.com/zenorocha/4526327)
-* [fvcproductions](https://gist.github.com/fvcproductions/1bfc2d4aecb01a834b46)
+## Author
+GitHub: Chiang
