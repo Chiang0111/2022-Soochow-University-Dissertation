@@ -37,7 +37,7 @@ This study employs autoregressive and cross-period regression models from time s
 
 ## Usage
 
-To run the analysis, open the `2022大學生論文.ipynb` notebook in Jupyter and follow the steps provided. Ensure you have the necessary data files in the `data/` directory.
+To run the analysis, open the `Dissertation_code.ipynb` notebook in Jupyter and follow the steps provided. Ensure you have the necessary data files in the `data/` directory.
 
 ## Contributing
 
