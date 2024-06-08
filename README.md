@@ -48,4 +48,8 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 This project is licensed under the MIT License.
 
 ## Author
-GitHub: Chiang
+GitHub: Chiang0111
+
+G-Mail: chiangchun0111@gmail.com
+
+LinkedIn: www.linkedin.com/in/yung-chun-chiang-76841222a
